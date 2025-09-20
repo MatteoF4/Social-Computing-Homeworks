@@ -1,7 +1,7 @@
 """
 Reading the dataset: Load the database and for each table, 
 print and inspect the available columns and the number of 
-rows. Explain below how you loaded the database. For each 
+rows. For each 
 table, describe all columns (name, purpose, type, example 
 of contents). 
 """
